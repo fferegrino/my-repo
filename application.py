@@ -3,3 +3,6 @@ def hello():
 
 def hola():
     return "Hola Mundo!"
+
+def bonjour():
+    return "Bonjour le monde!"
